@@ -306,6 +306,12 @@ const themes = {
     text_color: "FF75B5",
     bg_color: "31353a",
   },
+  alexa: {
+  title_color: "f2f5f5",
+  icon_color: "0096c4",
+  text_color: "#00b0e6",
+  bg_color: "162A38",
+  },
 };
 
 module.exports = themes;
